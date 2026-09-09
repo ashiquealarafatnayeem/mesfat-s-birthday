@@ -1,0 +1,20 @@
+HOW TO FILL THE PHOTO FRAMES FOR MESFAT
+=======================================
+
+Put Mesfat's 10 pictures in THIS folder (photos/), keeping the exact
+file names below (lowercase .jpg):
+
+  1000142946.jpg   <- sunlit smile with floral grace
+  1000142945.jpg   <- elegant moment beside the piano
+  1000142944.jpg   <- deep blue dress on green grass
+  1000142941.jpg   <- leading the room with confidence
+  1000142938.jpg   <- teal saree, radiating joy
+  1000142935.jpg   <- sharp & professional in sunlight
+  1000142937.jpg   <- golden daydream in red
+  1000142936.jpg   <- soft lavender with nature
+  1000142947.jpg   <- grace beside the waterfall
+  1000142934.jpg   <- vibrant green happiness
+
+Then rebuild the site (npm run build) — or, if you only have the final
+dist/index.html, create a folder called "photos" next to it and drop
+the same files in. Refresh. Every frame fills itself with her smile.
